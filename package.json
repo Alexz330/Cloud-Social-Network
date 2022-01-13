@@ -1,0 +1,28 @@
+{
+  "name": "cloud-social-network",
+  "version": "1.0.0",
+  "description": "social net \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cthe bigest social net\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001best social net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexz330/Cloud-Social-Network.git"
+  },
+  "keywords": [
+    "social",
+    "net",
+    "cloud"
+  ],
+  "author": "alexz_330",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexz330/Cloud-Social-Network/issues"
+  },
+  "homepage": "https://github.com/Alexz330/Cloud-Social-Network#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
