@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Alexz330/Cloud-Social-Network#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
     "nanoid": "^3.3.1",
     "nodemon": "^2.0.15",
     "swagger-ui-express": "^4.3.0"

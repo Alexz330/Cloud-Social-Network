@@ -29,9 +29,7 @@ router.get("/:id", (req, res) => {
 });
 
 router.post("/", (req, res) => {
-   
     
-
     Controller.upsert(req.body)
         .then(user => {
             response.success(req, res, user, 200)
